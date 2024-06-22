@@ -35,6 +35,7 @@
 ### 질의응답
 
 - [Github Discussion](https://github.com/elegant-functional-2023/secrets-of-computer/discussions)에 각 주차별 디스커션을 열어 질문과 답변
+- 스터디 당일 오전 11시까지 디스커션에 감상평을 기록
 
 ### 벌금(KST 기준)
 
@@ -48,11 +49,15 @@
 
 ### [1주차 (6/15)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/3)
 
-- 1장까지 읽어오고 정리 & 의견 나누기
+- 1장까지 읽어오고 감상평 & 의견 나누기
 
 ### [2주차 (6/22)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/4)
 
-- 2.4장까지 읽어오고 정리 & 의견 나누기
+- 2.4장까지 읽어오고 감상평 & 의견 나누기
+
+### [3주차 (6/29)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/7)
+
+- 2.10장까지 읽어오고 감상평 & 의견 나누기
 
 <br/>
 
@@ -60,13 +65,13 @@
 
 |  이름  |                   github id                        |  1주차  |  2주차  |  3주차  |  4주차  |  5주차  |  6주차  |  7주차  |  8주차  |
 | ----- | -------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 강민경 | [@ddongule](https://github.com/ddongule)            |   ㅇ   |      |      |      |      |      |      |      |
-| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)    |   x   |      |      |      |      |      |      |      |
-| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |   ㅇ   |      |      |      |      |      |      |      |
-| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |   x   |      |      |      |      |      |      |      |
-| 안현철 | [@iborymagic](https://github.com/iborymagic)        |   ㅇ   |      |      |      |      |      |      |      |
-| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   ㅇ   |      |      |      |      |      |      |      |
-| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   ㅇ   |      |      |      |      |      |      |      |
-| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   ㅇ   |      |      |      |      |      |      |      |
-| 조승희 | [@sa02045](https://github.com/sa02045)              |   ㅇ   |      |      |      |      |      |      |      |
-| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   ㅇ   |      |      |      |      |      |      |      |
+| 강민경 | [@ddongule](https://github.com/ddongule)            |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 김동희 | [@bigsaigon333](https://github.com/bigsaigon333)    |   x   |   △    |      |      |      |      |      |      |
+| 김주현 | [@chloe-codes1](https://github.com/chloe-codes1)    |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 박선희 | [@sunhpark42](https://github.com/sunhpark42)        |   x   |   ㅇ   |      |      |      |      |      |      |
+| 안현철 | [@iborymagic](https://github.com/iborymagic)        |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 윤서림 | [@yunseorim1116](https://github.com/yunseorim1116)  |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 이지수 | [@thgr8ganzi](https://github.com/thgr8ganzi)        |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 이한결 | [@hanana1253](https://github.com/hanana1253)        |   ㅇ   |   △    |      |      |      |      |      |      |
+| 조승희 | [@sa02045](https://github.com/sa02045)              |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
+| 최연수 | [@ella-yschoi](https://github.com/ella-yschoi)      |   ㅇ   |   ㅇ   |      |      |      |      |      |      |
