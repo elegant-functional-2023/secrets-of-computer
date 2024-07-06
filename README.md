@@ -52,7 +52,7 @@
 
 - 1장까지 읽어오고 감상평 & 의견 나누기
 
-### [2주차 (6/22)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/4)
+### [2주차 (6/22)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/5)
 
 - 2.4장까지 읽어오고 감상평 & 의견 나누기
 
