@@ -68,7 +68,7 @@
 
 - 3.9까지 읽어오고 감상평 & 의견 나누기
 
-### [7주차 (7/20)]
+### [7주차 (7/20)](https://github.com/elegant-functional-2023/secrets-of-computer/discussions/11)
 
 - 4.5장 까지 읽어오고 감상평 & 의견 나누기
 
